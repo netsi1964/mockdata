@@ -1,0 +1,23 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "User",
+    "version": "1.0",
+    "description": "Dummy users",
+    "contact": {
+      "name": "Sten Hougaard",
+      "url": "twitter.com/netsi1964",
+      "email": "netsi1964@gmail.com"
+    },
+    "termsOfService": "Free"
+  },
+  "servers": [
+    {
+      "url": "http://localhost:3000"
+    }
+  ],
+  "paths": {},
+  "components": {
+    "schemas": {}
+  }
+}
