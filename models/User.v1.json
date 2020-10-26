@@ -1,0 +1,28 @@
+{
+  "title": "User",
+  "type": "object",
+  "x-tags": [
+    "user"
+  ],
+  "x-examples": {
+    "example": {
+      "id": "string",
+      "firstname": "Anders",
+      "lastname": "Andersen"
+    }
+  },
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "firstname": {
+      "type": "string"
+    },
+    "lastname": {
+      "type": "string"
+    },
+    "": {
+      "type": "string"
+    }
+  }
+}
